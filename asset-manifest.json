@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/lssya/static/css/main.073c9b0a.css",
-    "main.js": "/lssya/static/js/main.960cced8.js",
+    "main.css": "/lssya/static/css/main.60336163.css",
+    "main.js": "/lssya/static/js/main.c994e9b5.js",
     "static/js/787.340670c0.chunk.js": "/lssya/static/js/787.340670c0.chunk.js",
-    "static/media/logo.svg": "/lssya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Alegreya-VariableFont_wght.ttf": "/lssya/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
+    "static/media/Raleway-Regular.ttf": "/lssya/static/media/Raleway-Regular.a9338128bb2e46698401.ttf",
+    "static/media/Dosis-VariableFont_wght.ttf": "/lssya/static/media/Dosis-VariableFont_wght.f4fe0ac26c24e981d2c7.ttf",
+    "static/media/OddlyCalmingRegular-7B89V.ttf": "/lssya/static/media/OddlyCalmingRegular-7B89V.3aa9c2dbd745626c0c24.ttf",
+    "static/media/logo-white.png": "/lssya/static/media/logo-white.9eea9ec8fc2ad3f587e9.png",
+    "static/media/Belleza-Regular.ttf": "/lssya/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
+    "static/media/headphone.png": "/lssya/static/media/headphone.bcaa497bae02ec2689c0.png",
     "index.html": "/lssya/index.html",
-    "main.073c9b0a.css.map": "/lssya/static/css/main.073c9b0a.css.map",
-    "main.960cced8.js.map": "/lssya/static/js/main.960cced8.js.map",
+    "main.60336163.css.map": "/lssya/static/css/main.60336163.css.map",
+    "main.c994e9b5.js.map": "/lssya/static/js/main.c994e9b5.js.map",
     "787.340670c0.chunk.js.map": "/lssya/static/js/787.340670c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.960cced8.js"
+    "static/css/main.60336163.css",
+    "static/js/main.c994e9b5.js"
   ]
 }
