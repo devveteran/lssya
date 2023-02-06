@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import "_styles/comingsoon.scss"
 import logo from '_images/logo-white.png'
-import headphone from '_images/headphone.png'
+import {ReactComponent as Headphone} from '_images/headphone.svg';
 
 export default function ComingSoon(){
 
@@ -24,8 +24,8 @@ export default function ComingSoon(){
                     <p>© 2023 LSSYA™ - The pioneer online psychotherapy platform in Ethiopia</p>
                 </div>
                 <div className = 'telegram-wrapper'>
-                    <a href='https://t.me/LSSYAOfficial/1795'>
-                        <img src={headphone} />
+                    <a className='btn-telegram' href='https://t.me/LSSYAOfficial/1795'>
+                        <Headphone fill='white'/>
                     </a>
                 </div>
             </div>

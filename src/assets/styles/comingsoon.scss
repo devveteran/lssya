@@ -55,7 +55,7 @@ h1, h2{
     background-size: cover;
     background-repeat: no-repeat;
     padding : 10px 15px 0;
-    justify-content:end;
+    justify-content:center;
 }
 
 .copyright{
@@ -71,11 +71,84 @@ h1, h2{
 .telegram-wrapper{
     padding : 0 15px 0 0;
     text-align: right;
+    position: relative;
 }
-.telegram-wrapper img{
-    height : 50px;
-    width : auto;
+.btn-telegram img{
+    width : 40px;
+    height : 40px;
     object-fit: contain;
+}
+
+.btn-telegram {
+    position: fixed;
+    right : 15px;
+    bottom : 15px;
+    width : 40px;
+    height : 40px;
+    background-color : $thirdColor;
+    border: none;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba($primaryColor, .64);
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+    outline: none;
+    padding: 10px;
+    z-index : 10;
+}
+  
+.btn-telegram::before {
+    content: '';
+    border-radius: 1000px;
+    min-width: calc(30px + 12px);
+    min-height: calc(30px + 12px);
+    // border: 6px solid rgba($primaryColor, .64);
+    box-shadow: 0 0 60px rgba($primaryColor, .64);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: all .3s ease-in-out 0s;
+}
+  
+.btn-telegram:hover, .btn-telegram:focus {
+    transform: translateY(-6px);
+}
+  
+.btn-telegram:hover::before, .btn-telegram:focus::before {
+    opacity: 1;
+}
+  
+.btn-telegram::after {
+    content: '';
+    width: 30px; 
+    height: 30px;
+    border-radius: 100%;
+    border: 6px solid $primaryColor;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: ring 1.5s infinite;
+}
+  
+.btn-telegram:hover::after, .btn-telegram:focus::after {
+    animation: none;
+    display: none;
+}
+  
+  @keyframes ring {
+    0% {
+      width: 50px;
+      height: 50px;
+      opacity: 1;
+    }
+    100% {
+      width: 90px;
+      height: 90px;
+      opacity: 0;
+    }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -86,7 +159,7 @@ h1, h2{
     }
 
     .telegram-wrapper img{
-        height : 30px;
+        height : 50px;
     }
 
     .header{
@@ -102,14 +175,14 @@ h1, h2{
     }
 
     .body h1{
-        font-size : 24px;
+        font-size : 26px;
     }
     .body h2{
-        font-size : 18px;
+        font-size : 20px;
     }
 
     .copyright p{
-        font-size : 10px;
+        font-size : 11px;
         margin : 0;
     }
 }
