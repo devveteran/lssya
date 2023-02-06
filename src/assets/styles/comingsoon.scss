@@ -71,10 +71,45 @@ h1, h2{
 .telegram-wrapper{
     padding : 0 15px 0 0;
     text-align: right;
-
 }
 .telegram-wrapper img{
     height : 50px;
     width : auto;
     object-fit: contain;
+}
+
+@media only screen and (max-width: 1024px) {
+    .footer{
+        background-size : 100% 100%;
+        background-position : bottom;
+        padding : 0;
+    }
+
+    .telegram-wrapper img{
+        height : 30px;
+    }
+
+    .header{
+        height : $headerHeight_min;
+    }
+
+    .footer{
+        height : $footerHeight_min;
+    }
+
+    .body{
+        height : calc(100vh - $headerHeight_min - $footerHeight_min);
+    }
+
+    .body h1{
+        font-size : 24px;
+    }
+    .body h2{
+        font-size : 18px;
+    }
+
+    .copyright p{
+        font-size : 10px;
+        margin : 0;
+    }
 }
