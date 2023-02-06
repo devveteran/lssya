@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lssya/static/css/main.1e590346.css",
-    "main.js": "/lssya/static/js/main.c994e9b5.js",
+    "main.css": "/lssya/static/css/main.a772d11a.css",
+    "main.js": "/lssya/static/js/main.38855569.js",
     "static/js/787.340670c0.chunk.js": "/lssya/static/js/787.340670c0.chunk.js",
     "static/media/Alegreya-VariableFont_wght.ttf": "/lssya/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
     "static/media/Raleway-Regular.ttf": "/lssya/static/media/Raleway-Regular.a9338128bb2e46698401.ttf",
@@ -9,14 +9,14 @@
     "static/media/OddlyCalmingRegular-7B89V.ttf": "/lssya/static/media/OddlyCalmingRegular-7B89V.3aa9c2dbd745626c0c24.ttf",
     "static/media/logo-white.png": "/lssya/static/media/logo-white.9eea9ec8fc2ad3f587e9.png",
     "static/media/Belleza-Regular.ttf": "/lssya/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
-    "static/media/headphone.png": "/lssya/static/media/headphone.bcaa497bae02ec2689c0.png",
+    "static/media/headphone.svg": "/lssya/static/media/headphone.845ea012e3d38a13ef531773b0791f09.svg",
     "index.html": "/lssya/index.html",
-    "main.1e590346.css.map": "/lssya/static/css/main.1e590346.css.map",
-    "main.c994e9b5.js.map": "/lssya/static/js/main.c994e9b5.js.map",
+    "main.a772d11a.css.map": "/lssya/static/css/main.a772d11a.css.map",
+    "main.38855569.js.map": "/lssya/static/js/main.38855569.js.map",
     "787.340670c0.chunk.js.map": "/lssya/static/js/787.340670c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e590346.css",
-    "static/js/main.c994e9b5.js"
+    "static/css/main.a772d11a.css",
+    "static/js/main.38855569.js"
   ]
 }
