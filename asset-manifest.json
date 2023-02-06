@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lssya/static/css/main.60336163.css",
+    "main.css": "/lssya/static/css/main.654ce6b2.css",
     "main.js": "/lssya/static/js/main.c994e9b5.js",
     "static/js/787.340670c0.chunk.js": "/lssya/static/js/787.340670c0.chunk.js",
     "static/media/Alegreya-VariableFont_wght.ttf": "/lssya/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
@@ -11,12 +11,12 @@
     "static/media/Belleza-Regular.ttf": "/lssya/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
     "static/media/headphone.png": "/lssya/static/media/headphone.bcaa497bae02ec2689c0.png",
     "index.html": "/lssya/index.html",
-    "main.60336163.css.map": "/lssya/static/css/main.60336163.css.map",
+    "main.654ce6b2.css.map": "/lssya/static/css/main.654ce6b2.css.map",
     "main.c994e9b5.js.map": "/lssya/static/js/main.c994e9b5.js.map",
     "787.340670c0.chunk.js.map": "/lssya/static/js/787.340670c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60336163.css",
+    "static/css/main.654ce6b2.css",
     "static/js/main.c994e9b5.js"
   ]
 }
