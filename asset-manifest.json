@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://lssya.app/static/css/main.63953ea2.css",
-    "main.js": "https://lssya.app/static/js/main.6eb5f716.js",
+    "main.css": "https://lssya.app/static/css/main.73f5105e.css",
+    "main.js": "https://lssya.app/static/js/main.d939c506.js",
     "static/js/787.340670c0.chunk.js": "https://lssya.app/static/js/787.340670c0.chunk.js",
     "static/media/Alegreya-VariableFont_wght.ttf": "https://lssya.app/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
     "static/media/Raleway-Regular.ttf": "https://lssya.app/static/media/Raleway-Regular.a9338128bb2e46698401.ttf",
@@ -11,12 +11,13 @@
     "static/media/Belleza-Regular.ttf": "https://lssya.app/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
     "static/media/headphone.svg": "https://lssya.app/static/media/headphone.845ea012e3d38a13ef531773b0791f09.svg",
     "index.html": "https://lssya.app/index.html",
-    "main.63953ea2.css.map": "https://lssya.app/static/css/main.63953ea2.css.map",
-    "main.6eb5f716.js.map": "https://lssya.app/static/js/main.6eb5f716.js.map",
+    "static/media/coming-soon-back.svg": "https://lssya.app/static/media/coming-soon-back.a8481d203b993b273b41.svg",
+    "main.73f5105e.css.map": "https://lssya.app/static/css/main.73f5105e.css.map",
+    "main.d939c506.js.map": "https://lssya.app/static/js/main.d939c506.js.map",
     "787.340670c0.chunk.js.map": "https://lssya.app/static/js/787.340670c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63953ea2.css",
-    "static/js/main.6eb5f716.js"
+    "static/css/main.73f5105e.css",
+    "static/js/main.d939c506.js"
   ]
 }
