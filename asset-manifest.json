@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lssya/static/css/main.f0ae0e68.css",
-    "main.js": "/lssya/static/js/main.26d24308.js",
-    "static/js/787.340670c0.chunk.js": "/lssya/static/js/787.340670c0.chunk.js",
-    "static/media/Alegreya-VariableFont_wght.ttf": "/lssya/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
-    "static/media/Raleway-Regular.ttf": "/lssya/static/media/Raleway-Regular.a9338128bb2e46698401.ttf",
-    "static/media/Dosis-VariableFont_wght.ttf": "/lssya/static/media/Dosis-VariableFont_wght.f4fe0ac26c24e981d2c7.ttf",
-    "static/media/OddlyCalmingRegular-7B89V.ttf": "/lssya/static/media/OddlyCalmingRegular-7B89V.3aa9c2dbd745626c0c24.ttf",
-    "static/media/logo-white.png": "/lssya/static/media/logo-white.9eea9ec8fc2ad3f587e9.png",
-    "static/media/Belleza-Regular.ttf": "/lssya/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
-    "static/media/headphone.svg": "/lssya/static/media/headphone.845ea012e3d38a13ef531773b0791f09.svg",
-    "index.html": "/lssya/index.html",
-    "main.f0ae0e68.css.map": "/lssya/static/css/main.f0ae0e68.css.map",
-    "main.26d24308.js.map": "/lssya/static/js/main.26d24308.js.map",
-    "787.340670c0.chunk.js.map": "/lssya/static/js/787.340670c0.chunk.js.map"
+    "main.css": "/static/css/main.cf909f9a.css",
+    "main.js": "/static/js/main.6ff3c83a.js",
+    "static/js/787.340670c0.chunk.js": "/static/js/787.340670c0.chunk.js",
+    "static/media/Alegreya-VariableFont_wght.ttf": "/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.a9338128bb2e46698401.ttf",
+    "static/media/Dosis-VariableFont_wght.ttf": "/static/media/Dosis-VariableFont_wght.f4fe0ac26c24e981d2c7.ttf",
+    "static/media/OddlyCalmingRegular-7B89V.ttf": "/static/media/OddlyCalmingRegular-7B89V.3aa9c2dbd745626c0c24.ttf",
+    "static/media/logo-white.png": "/static/media/logo-white.9eea9ec8fc2ad3f587e9.png",
+    "static/media/Belleza-Regular.ttf": "/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
+    "static/media/headphone.svg": "/static/media/headphone.845ea012e3d38a13ef531773b0791f09.svg",
+    "index.html": "/index.html",
+    "main.cf909f9a.css.map": "/static/css/main.cf909f9a.css.map",
+    "main.6ff3c83a.js.map": "/static/js/main.6ff3c83a.js.map",
+    "787.340670c0.chunk.js.map": "/static/js/787.340670c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0ae0e68.css",
-    "static/js/main.26d24308.js"
+    "static/css/main.cf909f9a.css",
+    "static/js/main.6ff3c83a.js"
   ]
 }
