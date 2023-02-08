@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://lssya.app/static/css/main.c1339708.css",
+    "main.css": "https://lssya.app/static/css/main.c49cf7a9.css",
     "main.js": "https://lssya.app/static/js/main.26e8975d.js",
     "static/js/787.340670c0.chunk.js": "https://lssya.app/static/js/787.340670c0.chunk.js",
     "static/media/Alegreya-VariableFont_wght.ttf": "https://lssya.app/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
@@ -11,13 +11,13 @@
     "static/media/Belleza-Regular.ttf": "https://lssya.app/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
     "static/media/headphone.svg": "https://lssya.app/static/media/headphone.845ea012e3d38a13ef531773b0791f09.svg",
     "index.html": "https://lssya.app/index.html",
-    "static/media/coming-soon-back.svg": "https://lssya.app/static/media/coming-soon-back.a8481d203b993b273b41.svg",
-    "main.c1339708.css.map": "https://lssya.app/static/css/main.c1339708.css.map",
+    "static/media/coming-soon-footer.svg": "https://lssya.app/static/media/coming-soon-footer.ad85526b11956844db3a.svg",
+    "main.c49cf7a9.css.map": "https://lssya.app/static/css/main.c49cf7a9.css.map",
     "main.26e8975d.js.map": "https://lssya.app/static/js/main.26e8975d.js.map",
     "787.340670c0.chunk.js.map": "https://lssya.app/static/js/787.340670c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1339708.css",
+    "static/css/main.c49cf7a9.css",
     "static/js/main.26e8975d.js"
   ]
 }
