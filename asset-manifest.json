@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://www.lssya.app/static/css/main.42e1b46b.css",
-    "main.js": "https://www.lssya.app/static/js/main.a1c7ae54.js",
-    "static/js/787.340670c0.chunk.js": "https://www.lssya.app/static/js/787.340670c0.chunk.js",
-    "static/media/Alegreya-VariableFont_wght.ttf": "https://www.lssya.app/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
-    "static/media/Raleway-Regular.ttf": "https://www.lssya.app/static/media/Raleway-Regular.a9338128bb2e46698401.ttf",
-    "static/media/Dosis-VariableFont_wght.ttf": "https://www.lssya.app/static/media/Dosis-VariableFont_wght.f4fe0ac26c24e981d2c7.ttf",
-    "static/media/OddlyCalmingRegular-7B89V.ttf": "https://www.lssya.app/static/media/OddlyCalmingRegular-7B89V.3aa9c2dbd745626c0c24.ttf",
-    "static/media/logo-white.png": "https://www.lssya.app/static/media/logo-white.9eea9ec8fc2ad3f587e9.png",
-    "static/media/Belleza-Regular.ttf": "https://www.lssya.app/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
-    "index.html": "https://www.lssya.app/index.html",
-    "static/media/headphone.svg": "https://www.lssya.app/static/media/headphone.845ea012e3d38a13ef531773b0791f09.svg",
-    "static/media/coming-soon-footer.svg": "https://www.lssya.app/static/media/coming-soon-footer.ad85526b11956844db3a.svg",
-    "main.42e1b46b.css.map": "https://www.lssya.app/static/css/main.42e1b46b.css.map",
-    "main.a1c7ae54.js.map": "https://www.lssya.app/static/js/main.a1c7ae54.js.map",
-    "787.340670c0.chunk.js.map": "https://www.lssya.app/static/js/787.340670c0.chunk.js.map"
+    "main.css": "/lssya/static/css/main.320fe6e7.css",
+    "main.js": "/lssya/static/js/main.0d4fd384.js",
+    "static/js/787.340670c0.chunk.js": "/lssya/static/js/787.340670c0.chunk.js",
+    "static/media/Alegreya-VariableFont_wght.ttf": "/lssya/static/media/Alegreya-VariableFont_wght.5eb236c60a21d6fb07ec.ttf",
+    "static/media/Raleway-Regular.ttf": "/lssya/static/media/Raleway-Regular.a9338128bb2e46698401.ttf",
+    "static/media/Dosis-VariableFont_wght.ttf": "/lssya/static/media/Dosis-VariableFont_wght.f4fe0ac26c24e981d2c7.ttf",
+    "static/media/OddlyCalmingRegular-7B89V.ttf": "/lssya/static/media/OddlyCalmingRegular-7B89V.3aa9c2dbd745626c0c24.ttf",
+    "static/media/logo-white.png": "/lssya/static/media/logo-white.9eea9ec8fc2ad3f587e9.png",
+    "static/media/Belleza-Regular.ttf": "/lssya/static/media/Belleza-Regular.ef08f378a720a6d35c3b.ttf",
+    "index.html": "/lssya/index.html",
+    "static/media/headphone.svg": "/lssya/static/media/headphone.845ea012e3d38a13ef531773b0791f09.svg",
+    "static/media/coming-soon-footer.svg": "/lssya/static/media/coming-soon-footer.ad85526b11956844db3a.svg",
+    "main.320fe6e7.css.map": "/lssya/static/css/main.320fe6e7.css.map",
+    "main.0d4fd384.js.map": "/lssya/static/js/main.0d4fd384.js.map",
+    "787.340670c0.chunk.js.map": "/lssya/static/js/787.340670c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42e1b46b.css",
-    "static/js/main.a1c7ae54.js"
+    "static/css/main.320fe6e7.css",
+    "static/js/main.0d4fd384.js"
   ]
 }
